@@ -20,7 +20,7 @@ function gotresult(error, results){
     object=results;
 }
 function preload(){
-    img=loadImage("traffic.jpg");
+    img=loadImage("dog_cat.jpg");
 }
 function draw(){
     image(img, 0, 0, 640, 480);
